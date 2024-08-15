@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#bg-col-text {
+  background: linear-gradient(
+    91.85deg,
+    rgba(55, 133, 186, 0.63) 19.58%,
+    rgba(183, 53, 215, 0.54) 90.16%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
