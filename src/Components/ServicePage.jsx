@@ -2,7 +2,7 @@
 
 const ServicePage = () => {
   return (
-    <section className='w-full m-h-screen px-20 py-16 text-[#fff] bg-[#21143D]'>
+    <section className='w-full m-h-screen px-20 py-16 bg-[#21143D]'>
         <div className="w-full">
             <h1 className='text-2xl'>HOW IT WORKS</h1>
             <div className="w-full card flex justify-center items-center gap-6 mt-5">

@@ -11,7 +11,7 @@ const Navbar = () => {
         />
       </div>
       <div className="links">
-        <ul className="flex gap-6 items-center">
+        <ul className="flex gap-6 items-center uppercase">
           <li className="text-lg text-zinc-900 font-bold cursor-pointer hover:text-purple-800">Services</li>
           <li className="text-lg text-zinc-900 font-bold cursor-pointer hover:text-purple-800">Pricing</li>
           <li className="text-lg text-zinc-900 font-bold cursor-pointer hover:text-purple-800">Contact us</li>

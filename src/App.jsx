@@ -6,7 +6,7 @@ import FooterPage from './Components/FooterPage'
 
 const App = () => {
   return (
-    <main className='w-full bg-zinc-900'>
+    <main className='w-full'>
       <HeroPage/>
       <OfferPage/>
       <ServicePage/>
